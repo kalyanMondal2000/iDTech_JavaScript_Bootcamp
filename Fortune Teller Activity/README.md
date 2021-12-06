@@ -1,1 +1,2 @@
 # Fortune Teller Activity
+In this project I had to make a variable called fortune and assign a value from 1-10. I then had to use if statements & operators to print a message depending on the value of the fortune variable. 
