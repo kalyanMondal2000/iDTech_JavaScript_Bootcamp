@@ -1,1 +1,2 @@
 # Debugging Activity
+For this activity, I had to debug the exercises in VS code an dopen the index.html file to see if I  debugged. I had to look over the different things that I learned from before to debug the exercises properly.
