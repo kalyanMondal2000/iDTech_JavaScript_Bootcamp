@@ -1,1 +1,2 @@
 # Project Pt 1 - PacMan Activity
+In this project, I had to use SetInterval() to to call the function Run() every 200 miliseconds. I also had to add the argument PageWidth to the run function complete the CheckPageBounds function to reverse the direction of PacMan upon hitting the edge of the screen. 
