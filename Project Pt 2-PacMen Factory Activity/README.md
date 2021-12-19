@@ -1,1 +1,2 @@
 # Project Pt 2 - PacMen Factory Activity
+In this project, we had to use the dom to make random pacmans move around on the screen. I also had to change the check collisions function to make sure the pacmans bounce. 
